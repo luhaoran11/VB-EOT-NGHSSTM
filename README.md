@@ -2,7 +2,7 @@
 
 **Robust Extended Object Tracking Under Non-stationary Skewed Noise**
 
-MATLAB implementation of the paper *"非平稳偏斜噪声下的扩展目标跟踪算法"* (Robust Extended Object Tracking Under Non-stationary Skewed Noise).
+MATLAB implementation of the paper Robust Extended Object Tracking Under Non-stationary Skewed Noise.
 
 ## Overview
 

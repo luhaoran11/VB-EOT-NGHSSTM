@@ -14,7 +14,7 @@ This repository provides a simulation framework for **Extended Object Tracking (
 
 2. **Transform-Matrix-Based RMM** — Replaces the scalar forgetting factor with a transformation matrix in the Random Matrix Model for extent prediction, ensuring shape-expectation conservation and maintaining Inverse-Wishart conjugacy during evolution.
 
-3. **Variational Bayesian Joint Estimation** — Derives closed-form analytic update equations for all latent variables (kinematic state, extent, noise parameters, outlier indicators), enabling real-time recursive estimation with guaranteed convergence.
+3. **Variational Bayesian Joint Estimation** — Derives closed-form analytic update equations for all latent variables , enabling real-time recursive estimation with guaranteed convergence.
 
 ## Implemented Algorithms
 
@@ -108,7 +108,7 @@ If you find this code useful for your research, please consider citing our paper
   title   = {非平稳偏斜噪声下的扩展目标跟踪算法},
   author  = {},
   journal = {},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
